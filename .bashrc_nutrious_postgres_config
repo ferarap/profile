@@ -1,0 +1,6 @@
+### Heroku Postgres Details
+export TODO_APP_DEV_HOST=ec2-54-225-91-60.compute-1.amazonaws.com
+export TODO_APP_DEV_DATABASE=d80kq8ivih3kc7
+export TODO_APP_DEV_USER=rcyrsuqlsjmtwh
+export TODO_APP_DEV_PORT=5432
+export TODO_APP_DEV_PASSWORD=f7eiOsXeHHiZYCMrA0Mv2l3py9
