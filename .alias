@@ -1,0 +1,12 @@
+alias ls="ls --color"
+
+alias edita="vi /home/pablo/.alias"
+alias refresh=". /home/pablo/.alias"
+
+alias gst="git status"
+alias gadd="git add"
+alias gcmt="git commit"
+alias gpush="git push"
+alias gpull="git pull"
+
+alias b="bundle exec"
