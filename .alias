@@ -1,7 +1,7 @@
 alias ls="ls --color"
 
-alias edita="vi /home/pablo/.alias"
-alias refresh=". /home/pablo/.alias"
+alias edita="vi $HOME/.alias"
+alias refresh=". $HOME/.alias"
 
 alias gst="git status"
 alias gadd="git add"
